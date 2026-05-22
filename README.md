@@ -53,16 +53,18 @@ chmod +x install.sh
 ## Usage / Utilisation
 
 **EN:**
-1. Launch Mirror Phone from Launchpad or `/Applications`
-2. On your iPhone: Control Center > Screen Mirroring
-3. Select "Mirror Phone" from the list
-4. Done! Your iPhone screen appears in a window
+1. Make sure your iPhone and Mac are on the same Wi-Fi network
+2. Launch Mirror Phone from Launchpad or `/Applications`
+3. On your iPhone: Control Center > Screen Mirroring
+4. Select "Mirror Phone" from the list
+5. Done! Your iPhone screen appears in a window
 
 **FR:**
-1. Lancez Mirror Phone depuis le Launchpad ou `/Applications`
-2. Sur l'iPhone : Centre de controle > Recopie de l'ecran
-3. Choisissez "Mirror Phone" dans la liste
-4. C'est fait ! L'ecran de l'iPhone s'affiche dans une fenetre
+1. Verifiez que votre iPhone et votre Mac sont sur le meme reseau Wi-Fi
+2. Lancez Mirror Phone depuis le Launchpad ou `/Applications`
+3. Sur l'iPhone : Centre de controle > Recopie de l'ecran
+4. Choisissez "Mirror Phone" dans la liste
+5. C'est fait ! L'ecran de l'iPhone s'affiche dans une fenetre
 
 The window is movable and resizable. `Cmd+Q` to quit.
 
